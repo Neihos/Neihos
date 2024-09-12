@@ -1,4 +1,10 @@
-## Hi there 👋
+Bonjour à tous 👋
+
+Je suis Neihos.
+
+Je suis passionné par le développement web et je me consacre activement à l'obtention de mon diplôme dans ce domaine. Actuellement, je perfectionne mes compétences en HTML, CSS, JavaScript, PHP, et bien d'autres technologies. Mon objectif est de créer des projets innovants tout en continuant à apprendre et à évoluer dans le développement web.
+
+Peut-être à bientôt !!!
 
 <!--
 **Neihos/Neihos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
