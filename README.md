@@ -2,7 +2,10 @@ Bonjour à tous 👋
 
 Je suis Neihos.
 
-Je suis passionné par le développement web et je me consacre activement à l'obtention de mon diplôme dans ce domaine. Actuellement, je perfectionne mes compétences en HTML, CSS, JavaScript, PHP, et bien d'autres technologies. Mon objectif est de créer des projets innovants tout en continuant à apprendre et à évoluer dans le développement web.
+Je suis passionné par le développement web et diplômé dans ce domaine depuis février 2025.
+Actuellement, je suis une formation spécialisée en React.js afin d'élargir mes compétences dans le développement d'interfaces dynamiques et modernes.
+Je continue à me perfectionner en HTML, CSS, JavaScript, PHP et bien d'autres technologies.
+Mon objectif est de créer des projets innovants, de rester curieux et de progresser constamment en tant que développeur web.
 
 Peut-être à bientôt !!!
 
